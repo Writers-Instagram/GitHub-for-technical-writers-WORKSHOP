@@ -14,13 +14,15 @@ Sample data should be based on dummy lorem ipsum content like https://hipsum.co/
 
 ### Glossary
 
-Fork
-Pull Request
-Clone
-Branches
-Commit
-Push/Pull
-Local vs Remote
+- GitHub - Instagram for developers
+- Repository - like an instagram profile with fancy stuff (you can have many profiles sic! :D)
+- Clone - copy sb's repo (profile) to work on it locally
+- Fork - kind of cloning with the assumption to contribute to an existing repo (you can add your pictures to somebody's profile)
+- Pull Request - a request sent to the profile owner to make the pictures you added to their profile visible to all
+- Branches - copies of sb's profile with extra photos, changes
+- Commit - information about changes made to sb's repo
+- Push/Pull - send or download the changes made
+- Local vs Remote - on your machine / on a server
 ??
 
 ### GitHub online editing vs git
@@ -40,12 +42,14 @@ Local vs Remote
 - Through edit buttons in UI, show sample https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
 - Make participants provide such edit links to others during the workshop and do crowd sourcing
 
-TODO: check how we could use Gitter or some other geeky communicator to get people on board quickly and make them share links to their repos easily
+TODO: check how we could use Gitter or some other geeky communicator to get people on board quickly and make them share links to their repos easily :white_check_mark:
+- to use Gitter you need a GitHub account or a Twitter account
+- we have a room created: https://gitter.im/Writers-Instagram/Writers-Instagram?utm_source=share-link&utm_medium=link&utm_campaign=share-link or we can use the Lobby chat room https://gitter.im/Writers-Instagram/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link
 
 ### Markdown + GitHub Flavoured Markdown
 
 - what markdown is
-- show samples, provide links to good learning materials
+- show samples, provide links to good learning materials (https://daringfireball.net/projects/markdown/syntax, https://dillinger.io/)
 - explain GFM term
 
 ### What approaches to writing docu in repos are
