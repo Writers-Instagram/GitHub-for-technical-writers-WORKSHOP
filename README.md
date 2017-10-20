@@ -1,18 +1,48 @@
-## Main assumptions
+Purpose of this workshop is to:
+* Get started with GitHub and get convinced to use it on daily basis
+* Learn basics about Git and GitHub
+* Know what are the benefits of using Github
+* What to use GitHub for
+* Get more experience and find a geeky job https://github.com/trending?since=monthly
 
-Sample data should be based on dummy lorem ipsum content like https://hipsum.co/?paras=5&type=hipster-latin
+## Sample Data
 
+All sample data in this project are technology agnostic and are based on dummy lorem ipsum content taken from https://hipsum.co/?paras=5&type=hipster-latin
 
-## Script Draft
+## Why GitHub?
 
-### Why GitHub
+### Who uses it?
+  - https://github.com/Microsoft
+  - https://github.com/google
+  - https://github.com/sap
+  - https://github.com/facebook
+  
+  Answer is: Everybody, like with Facebook. Except of those geeks that go to GitLab, like Facebook haters go to Google Plus.
+### What GitHub changed in the IT world
+  https://honza.ca/2011/03/7-ways-github-has-changed-the-open-source-world
+  This post was published exactly when the GitHub populatiry started rising. It is still valid. 
+  GitHub didn't change only developers lives, but also technical writers lives:
+  - Static site generators
+  - Markdown popularity
+  - Readme driven development
+  - Overall awareness of how important it is to have a good documentation quality
+### What are the benefits?
+- Learning
+- Sharing
+- Collaboration
+### What people use it for?
+- Writing Books:
+  - https://github.com/getify/You-Dont-Know-JS
+- Sharing Presentations/workshops:
+  - https://github.com/kentcdodds/testing-workshop
+  - https://github.com/derberg/rest-api-docu-best-practices
+- Blogging/Publishing
+  - https://github.com/derberg/awesome-docs-with-static-site-generators
+- Sharing thoughts:
+  - https://gist.github.com/matthewmccullough/9381765
+  - https://gist.github.com/olivierlacan/4062929
 
-- Who uses it?
-- What GitHub changed in the It world
-- What are the benefits?
-- What people use it for (not only code, but writing books for example)
-
-### Glossary
+## Glossary
 
 - GitHub - Instagram for developers
 - Repository - like an instagram profile with fancy stuff (you can have many profiles sic! :D)
