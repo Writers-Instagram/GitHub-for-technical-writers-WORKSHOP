@@ -56,7 +56,7 @@ All sample data in this project are technology agnostic and are based on dummy l
 - Merge: Combine different branches in one
 - Merge Conflict: RUN FOR YOUR LIFE!
 
-### GitHub online editing vs git
+### GitHub online editing vs local editing
 
 This workshop is fully based on GitHub functionality, to show that Git clients usage is needed only in case of advance users.
 
@@ -70,13 +70,12 @@ Stick to the tool that your team mates use.
 
 ### Contribution flows
 
-- as project member
-- through forks
+- Project member: Clone -> Branch -> Pull Request
+- Through forks: Fork -> Pull Request
 
 ### Crowd sourcing 
 
-- what CS is?
-- Through edit buttons in UI, show sample https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
+Through edit buttons in UI, show sample https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
 - Make participants provide such edit links to others during the workshop and do crowd sourcing
 
 TODO: check how we could use Gitter or some other geeky communicator to get people on board quickly and make them share links to their repos easily :white_check_mark:
@@ -85,16 +84,17 @@ TODO: check how we could use Gitter or some other geeky communicator to get peop
 
 ### Markdown + GitHub Flavoured Markdown
 
-- what markdown is
+Markdown is a way to style text on the web
+
 - show samples, provide links to good learning materials (https://daringfireball.net/projects/markdown/syntax, https://dillinger.io/)
 - explain GFM term
 
-### What approaches to writing docu in repos are
+### Ways of documenting projects
 
-- Simple docu, readme only
-- Readme -> Readme with links to more docs 
-- Wiki 
-- Jekyll site
+- Simple docu, readme only: https://github.com/matiassingers/awesome-readme
+- Readme with links to more docs: https://github.com/matiassingers/awesome-readme
+- Wiki: https://github.com/Netflix/Hystrix/wiki
+- Jekyll site: https://github.com/derberg/awesome-docs-with-static-site-generators
 
 ### [Optional] GitHub Pages + Jekyll
 
