@@ -44,22 +44,29 @@ All sample data in this project are technology agnostic and are based on dummy l
 
 ## Glossary
 
-- GitHub - Instagram for developers
-- Repository - like an instagram profile with fancy stuff (you can have many profiles sic! :D)
-- Clone - copy sb's repo (profile) to work on it locally
-- Fork - kind of cloning with the assumption to contribute to an existing repo (you can add your pictures to somebody's profile)
-- Pull Request - a request sent to the profile owner to make the pictures you added to their profile visible to all
-- Branches - copies of sb's profile with extra photos, changes
-- Commit - information about changes made to sb's repo
-- Push/Pull - send or download the changes made
-- Local vs Remote - on your machine / on a server
-??
+- GitHub: Instagram for developers
+- Repository: like an instagram profile with fancy stuff (you can have many profiles sic! :D)
+- Clone: Copy sb's repo (profile) to work on it locally
+- Fork: Kind of cloning with the assumption to contribute to an existing repo (you can add your pictures to somebody's profile) or to extend it separately
+- Pull Request: A request sent to the profile owner to make the pictures you added to their profile visible to all
+- Branches: Different versions of the profile with extra photos, changes, work in progress
+- Commit: Saving changes
+- Push/Pull: Send or download the changes to local version
+- Local vs Remote: On your machine / on a server
+- Merge: Combine different branches in one
+- Merge Conflict: RUN FOR YOUR LIFE!
 
 ### GitHub online editing vs git
 
-- Explain that workshop is based on GitHub online editor.
-- Explain what git is and what is has to do with GitHub
-- What tools to use for git if we do not have a luxury to use GitHub in corporate organization
+This workshop is fully based on GitHub functionality, to show that Git clients usage is needed only in case of advance users.
+
+Git is a distributet version control system. In human words: A system that records changes to a file or set of files over time so that you can recall specific versions later.
+
+No GitHub? you use Bitbucket?
+- [Git CLI](https://git-scm.com/downloads). Easy to start with thatnks to this free training https://try.github.io
+- https://desktop.github.com/
+- https://www.sourcetreeapp.com/
+Stick to the tool that your team mates use.
 
 ### Contribution flows
 
