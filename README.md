@@ -112,9 +112,9 @@ Free web hosting: https://pages.github.com/
 - Easy -> Plain README: https://pages.github.com/themes/
 - Advanced -> Custom: https://github.com/derberg/awesome-docs-with-static-site-generators
 
-## [Optional] Project management through Project and Issues
+## [Optional] Gist?
 
-Define a [project](/projects) and start working with [issues](/issues) to assure transparency of your project for the community.
+Create first Gist https://gist.github.com
 
 ## [Optional] Automation, Travis, links validation
 
@@ -124,6 +124,6 @@ Continuous integration is a way of automating processes aroung your project.
 
 Sample config for links validation: https://github.com/derberg/awesome-docs-with-static-site-generators/blob/master/.travis.yml
 
-## [Optional] Gist?
+## [Optional] Project management through Project and Issues
 
-Create first Gist https://gist.github.com
+Define a [project](/projects) and start working with [issues](/issues) to assure transparency of your project for the community.
