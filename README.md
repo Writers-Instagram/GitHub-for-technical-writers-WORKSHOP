@@ -9,7 +9,7 @@ So first, get your own GitHub account https://github.com/join?source=header-home
 
 ## Sample Data
 
-All sample data in this project are technology agnostic and are based on dummy lorem ipsum content taken from https://hipsum.co/?paras=5&type=hipster-latin
+All sample data in this project are technology agnostic and are based on dummy lorem ipsum content taken from https://jaspervdj.be/lorem-markdownum/
 
 ## Why GitHub?
 
@@ -72,24 +72,31 @@ Stick to the tool that your team mates use.
 
 ### Contribution flows
 
-- Project member: Clone -> Branch -> Pull Request
+All workshop patricipants must be members of https://github.com/Writers-Instagram/play-bucket repository.
+Share accounts names with https://docs.google.com/document/u/0/.
+
+- Project member:
+  - Edit -> Commit
+  - Clone -> Branch -> Pull Request
 - Through forks: Fork -> Pull Request
 
 ### Crowd sourcing 
 
-Through edit buttons in UI, show sample https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
-- Make participants provide such edit links to others during the workshop and do crowd sourcing
+https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
 
-TODO: check how we could use Gitter or some other geeky communicator to get people on board quickly and make them share links to their repos easily :white_check_mark:
-- to use Gitter you need a GitHub account or a Twitter account
-- we have a room created: https://gitter.im/Writers-Instagram/Writers-Instagram?utm_source=share-link&utm_medium=link&utm_campaign=share-link or we can use the Lobby chat room https://gitter.im/Writers-Instagram/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+Edit link looks like this https://github.com/Writers-Instagram/play-bucket/edit/master/README.md
 
-### Markdown + GitHub Flavoured Markdown
+### Markdown and others
 
 Markdown is a way to style text on the web
 
-- show samples, provide links to good learning materials (https://daringfireball.net/projects/markdown/syntax, https://dillinger.io/)
-- explain GFM term
+- Basics: https://daringfireball.net/projects/markdown/syntax, 
+- Editors: https://dillinger.io/
+- Tutorial https://www.markdowntutorial.com/
+
+Emoticons: https://gist.github.com/rxaviers/7360908
+
+Others: https://github.com/github/markup#markups AsciiDoc or reStructuredText.
 
 ### Ways of documenting projects
 
@@ -98,9 +105,12 @@ Markdown is a way to style text on the web
 - Wiki: https://github.com/Netflix/Hystrix/wiki
 - Jekyll site: https://github.com/derberg/awesome-docs-with-static-site-generators
 
-### [Optional] GitHub Pages + Jekyll
+### [Optional] GitHub Pages
 
-Have sample + instructions that are easy to follow to publish simple static web page with docu
+Free web hosting: https://pages.github.com/
+
+- Easy -> Plain readme: https://pages.github.com/themes/
+- Advanced -> Custom: https://github.com/derberg/awesome-docs-with-static-site-generators
 
 ### [Optional] Project management through Project and Issues
 
