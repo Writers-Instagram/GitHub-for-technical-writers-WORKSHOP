@@ -114,7 +114,7 @@ Free web hosting: https://pages.github.com/
 
 ## [Optional] Project management through Project and Issues
 
-Define a Project and start working with issues.
+Define a [project](/projects) and start working with [issues](/issues) to assure transparency of your project for the community.
 
 ## [Optional] Automation, Travis, links validation
 
