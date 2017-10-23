@@ -126,4 +126,4 @@ Sample config for links validation: https://github.com/derberg/awesome-docs-with
 
 ### [Optional] Gist?
 
-
+Create first Gist https://gist.github.com
