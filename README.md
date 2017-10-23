@@ -58,7 +58,7 @@ All sample data in this project are technology agnostic and are based on dummy l
 - Merge: Combine different branches in one
 - Merge Conflict: RUN FOR YOUR LIFE!
 
-### GitHub online editing vs local editing
+## GitHub online editing vs local editing
 
 This workshop is fully based on GitHub functionality, to show that Git clients usage is needed only in case of advance users.
 
@@ -70,7 +70,7 @@ No GitHub? Are you using Bitbucket?
 - https://www.sourcetreeapp.com/
 Stick to the tool that your team mates use.
 
-### Contribution flows
+## Contribution flows
 
 All workshop patricipants must be members of https://github.com/Writers-Instagram/play-bucket repository.
 Share accounts names with https://docs.google.com/document/u/0/.
@@ -80,13 +80,13 @@ Share accounts names with https://docs.google.com/document/u/0/.
   - Clone -> Branch -> Pull Request
 - Through forks: Fork -> Pull Request
 
-### Crowd sourcing 
+## Crowd sourcing 
 
 https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
 
 Edit link looks like this https://github.com/Writers-Instagram/play-bucket/edit/master/README.md
 
-### Markdown and others
+## Markdown and others
 
 Markdown is a way to style text on the web
 
@@ -98,25 +98,25 @@ Emoticons: https://gist.github.com/rxaviers/7360908
 
 Others: https://github.com/github/markup#markups AsciiDoc or reStructuredText.
 
-### Ways of documenting projects
+## Ways of documenting projects
 
 - Simple docu, readme only: https://github.com/matiassingers/awesome-readme
 - Readme with links to more docs: https://github.com/matiassingers/awesome-readme
 - Wiki: https://github.com/Netflix/Hystrix/wiki
 - Jekyll site: https://github.com/derberg/awesome-docs-with-static-site-generators
 
-### GitHub Pages
+## GitHub Pages
 
 Free web hosting: https://pages.github.com/
 
-- Easy -> Plain readme: https://pages.github.com/themes/
+- Easy -> Plain README: https://pages.github.com/themes/
 - Advanced -> Custom: https://github.com/derberg/awesome-docs-with-static-site-generators
 
-### [Optional] Project management through Project and Issues
+## [Optional] Project management through Project and Issues
 
 Define a Project and start working with issues.
 
-### [Optional] Automation, Travis, links validation
+## [Optional] Automation, Travis, links validation
 
 Continuous integration is a way of automating processes aroung your project.
 - https://travis-ci.org
@@ -124,6 +124,6 @@ Continuous integration is a way of automating processes aroung your project.
 
 Sample config for links validation: https://github.com/derberg/awesome-docs-with-static-site-generators/blob/master/.travis.yml
 
-### [Optional] Gist?
+## [Optional] Gist?
 
 Create first Gist https://gist.github.com
