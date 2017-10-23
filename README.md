@@ -5,6 +5,8 @@ Purpose of this workshop is to:
 * What to use GitHub for
 * Get more experience and find a geeky job https://github.com/trending?since=monthly
 
+So first, get your own GitHub account https://github.com/join?source=header-home
+
 ## Sample Data
 
 All sample data in this project are technology agnostic and are based on dummy lorem ipsum content taken from https://hipsum.co/?paras=5&type=hipster-latin
@@ -62,7 +64,7 @@ This workshop is fully based on GitHub functionality, to show that Git clients u
 
 Git is a distributet version control system. In human words: A system that records changes to a file or set of files over time so that you can recall specific versions later.
 
-No GitHub? you use Bitbucket?
+No GitHub? Are you using Bitbucket?
 - [Git CLI](https://git-scm.com/downloads). Easy to start with thatnks to this free training https://try.github.io
 - https://desktop.github.com/
 - https://www.sourcetreeapp.com/
