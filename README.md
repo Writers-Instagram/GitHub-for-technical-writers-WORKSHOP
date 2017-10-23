@@ -105,7 +105,7 @@ Others: https://github.com/github/markup#markups AsciiDoc or reStructuredText.
 - Wiki: https://github.com/Netflix/Hystrix/wiki
 - Jekyll site: https://github.com/derberg/awesome-docs-with-static-site-generators
 
-### [Optional] GitHub Pages
+### GitHub Pages
 
 Free web hosting: https://pages.github.com/
 
@@ -114,14 +114,15 @@ Free web hosting: https://pages.github.com/
 
 ### [Optional] Project management through Project and Issues
 
-- Base whole work on samples or script on project management feature
-- Create incidents for each change and collaborate through all github feature
-
-Later we can show to audience what were the benefits. We will ask them to plan some project and create some issues maybe?
+Define a Project and start working with issues.
 
 ### [Optional] Automation, Travis, links validation
 
-Have sample + instructions that are easy to follow to set up continuous integration that is validating if links are working in documentation
+Continuous integration is a way of automating processes aroung your project.
+- https://travis-ci.org
+- https://circleci.com/
+
+Sample config for links validation: https://github.com/derberg/awesome-docs-with-static-site-generators/blob/master/.travis.yml
 
 ### [Optional] Gist?
 
