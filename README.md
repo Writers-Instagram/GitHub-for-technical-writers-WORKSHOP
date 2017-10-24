@@ -22,6 +22,7 @@ All sample data in this project are technology agnostic and are based on dummy l
   - https://github.com/facebook
   
   Answer is: Everybody, like with Facebook. Except of those geeks that go to GitLab, like Facebook haters go to Google Plus.
+
 ### What GitHub changed in the IT world
   https://honza.ca/2011/03/7-ways-github-has-changed-the-open-source-world
   This post was published exactly when the GitHub populatiry started rising. It is still valid. 
@@ -30,10 +31,12 @@ All sample data in this project are technology agnostic and are based on dummy l
   - Markdown popularity
   - Readme driven development
   - Overall awareness of how important it is to have a good documentation quality
+
 ### What are the benefits?
 - Learning
 - Sharing
 - Collaboration
+
 ### What people use it for?
 - Writing Books:
   - https://github.com/getify/You-Dont-Know-JS
@@ -70,6 +73,7 @@ No GitHub? Are you using Bitbucket?
 - [Git CLI](https://git-scm.com/downloads). Easy to start with thatnks to this free training https://try.github.io
 - https://desktop.github.com/
 - https://www.sourcetreeapp.com/
+
 Stick to the tool that your team mates use.
 
 ## Contribution flows
