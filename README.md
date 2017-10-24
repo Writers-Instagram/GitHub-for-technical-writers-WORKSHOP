@@ -114,6 +114,8 @@ Free web hosting: https://pages.github.com/
 - Easy -> Plain README: https://pages.github.com/themes/
 - Advanced -> Custom: https://github.com/derberg/awesome-docs-with-static-site-generators
 
+Alternative: `http://documentup.com/profile-org-name/repo-name` like http://documentup.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP
+
 ## [Optional] Gist?
 
 Create first Gist https://gist.github.com
