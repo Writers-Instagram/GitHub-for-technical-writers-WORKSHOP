@@ -125,7 +125,7 @@ Continuous integration is a way of automating processes aroung your project.
 - https://circleci.com/
 
 1. Enable Travis to gain access to your repository: https://travis-ci.org/profile/
-2. Create such [.travis.yml](/blob/master/.travis.yml) file in the root of your repository
+2. Create such [.travis.yml](.travis.yml) file in the root of your repository
 3. Check how is your CI plan doing: https://travis-ci.org/profile-org-name/repo-name
 4. Add a badge to the top of the README:
 ```
@@ -134,4 +134,4 @@ Continuous integration is a way of automating processes aroung your project.
 
 ## [Optional] Project management through Project and Issues
 
-Define a [project](/projects) and start working with [issues](/issues) to assure transparency of your project for the community. Define your own [issue template](https://github.com/YaaS/chewie/blob/master/ISSUE_TEMPLATE.md) to make issue reporting much easier and assure you're getting all important data immediately from the user
+Define a [project](projects) and start working with [issues](issues) to assure transparency of your project for the community. Define your own [issue template](https://github.com/YaaS/chewie/blob/master/ISSUE_TEMPLATE.md) to make issue reporting much easier and assure you're getting all important data immediately from the user
