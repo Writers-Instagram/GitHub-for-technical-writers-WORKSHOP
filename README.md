@@ -134,4 +134,4 @@ Continuous integration is a way of automating processes aroung your project.
 
 ## [Optional] Project management through Project and Issues
 
-Define a [project](projects) and start working with [issues](issues) to assure transparency of your project for the community. Define your own [issue template](https://github.com/YaaS/chewie/blob/master/ISSUE_TEMPLATE.md) to make issue reporting much easier and assure you're getting all important data immediately from the user
+Define a Project and start working with Issues to assure transparency of your project for the community. Define your own [issue template](https://github.com/YaaS/chewie/blob/master/ISSUE_TEMPLATE.md) to make issue reporting much easier and assure you're getting all important data immediately from the user
