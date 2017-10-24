@@ -1,4 +1,4 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot README.md --allow-dupe --allow-redirect --base-url https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/blob/master/
+script: awesome_bot README.md --allow-dupe --allow-redirect --base-url https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/blob/master/ --white-list http://documentup.com/profile-org-name/repo-name
