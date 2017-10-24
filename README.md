@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP.svg?branch=master)](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP)
+
 Purpose of this workshop is to:
 * Get started with GitHub and get convinced to use it on daily basis
 * Learn basics about Git and GitHub
@@ -122,7 +124,13 @@ Continuous integration is a way of automating processes aroung your project.
 - https://travis-ci.org
 - https://circleci.com/
 
-Sample config for links validation: https://github.com/derberg/awesome-docs-with-static-site-generators/blob/master/.travis.yml
+1. Enable Travis to gain access to your repository: https://travis-ci.org/profile/
+2. Create such [.travis.yml](/blob/master/.travis.yml) file in the root of your repository
+3. Check how is your CI plan doing: https://travis-ci.org/profile-org-name/repo-name
+4. Add a badge to the top of the README:
+```
+[![Build Status](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP.svg?branch=master)](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP)
+```
 
 ## [Optional] Project management through Project and Issues
 
