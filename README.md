@@ -70,7 +70,7 @@ This workshop is fully based on GitHub functionality, to show that Git clients u
 Git is a distributet version control system. In human words: A system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 No GitHub? Are you using Bitbucket?
-- [Git CLI](https://git-scm.com/downloads). Easy to start with thatnks to this free training https://try.github.io
+- [Git CLI](https://git-scm.com/downloads). Easy to start with thanks to this free training https://try.github.io
 - https://desktop.github.com/
 - https://www.sourcetreeapp.com/
 
