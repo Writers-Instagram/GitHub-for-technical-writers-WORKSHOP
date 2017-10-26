@@ -98,7 +98,7 @@ Markdown is a way to style text on the web
 
 - Basics: https://daringfireball.net/projects/markdown/syntax, 
 - Editors: https://dillinger.io/
-- Tutorial https://www.markdowntutorial.com/
+- Tutorial http://commonmark.org/help/tutorial/
 
 Emoticons: https://gist.github.com/rxaviers/7360908
 
