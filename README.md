@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP.svg?branch=master)](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP)
 
+## Overview (LG)
+
 Purpose of this workshop is to:
 * Get started with GitHub and get convinced to use it on daily basis
 * Learn basics about Git and GitHub
@@ -9,35 +11,18 @@ Purpose of this workshop is to:
 
 So first, get your own GitHub account https://github.com/join?source=header-home
 
-## Sample Data
+## Sample Data (LG)
 
 All sample data in this project are technology agnostic and are based on dummy lorem ipsum content taken from https://jaspervdj.be/lorem-markdownum/
 
 ## Why GitHub?
 
-### Who uses it?
-  - https://github.com/Microsoft
-  - https://github.com/google
-  - https://github.com/sap
-  - https://github.com/facebook
-  
-  Answer is: Everybody, like with Facebook. Except of those geeks that go to GitLab, like Facebook haters go to Google Plus.
-
-### What GitHub changed in the IT world
-  https://honza.ca/2011/03/7-ways-github-has-changed-the-open-source-world
-  This post was published exactly when the GitHub populatiry started rising. It is still valid. 
-  GitHub didn't change only developers lives, but also technical writers lives:
-  - Static site generators
-  - Markdown popularity
-  - Readme driven development
-  - Overall awareness of how important it is to have a good documentation quality
-
-### What are the benefits?
+### What are the benefits? (MS)
 - Learning
 - Sharing
 - Collaboration
 
-### What people use it for?
+### What people use it for? (MS)
 - Writing Books:
   - https://github.com/getify/You-Dont-Know-JS
 - Sharing Presentations/workshops:
@@ -48,8 +33,25 @@ All sample data in this project are technology agnostic and are based on dummy l
 - Sharing thoughts:
   - https://gist.github.com/matthewmccullough/9381765
   - https://gist.github.com/olivierlacan/4062929
+  
+### Who uses it? (LG)
+  - https://github.com/Microsoft
+  - https://github.com/google
+  - https://github.com/sap
+  - https://github.com/facebook
+  
+  Answer is: Everybody, like with Facebook. Except of those geeks that go to GitLab, like Facebook haters go to Google Plus.
 
-## Glossary
+### What GitHub changed in the IT world (LG)
+  https://honza.ca/2011/03/7-ways-github-has-changed-the-open-source-world
+  This post was published exactly when the GitHub populatiry started rising. It is still valid. 
+  GitHub didn't change only developers lives, but also technical writers lives:
+  - Static site generators
+  - Markdown popularity
+  - Readme driven development
+  - Overall awareness of how important it is to have a good documentation quality
+
+## Glossary (MS)
 
 - GitHub: Instagram for developers
 - Repository: like an instagram profile with fancy stuff (you can have many profiles sic! :D)
@@ -63,7 +65,7 @@ All sample data in this project are technology agnostic and are based on dummy l
 - Merge: Combine different branches in one
 - Merge Conflict: RUN FOR YOUR LIFE!
 
-## GitHub online editing vs local editing
+## GitHub online editing vs local editing (LG)
 
 This workshop is fully based on GitHub functionality, to show that Git clients usage is needed only in case of advance users.
 
@@ -76,7 +78,7 @@ No GitHub? Are you using Bitbucket?
 
 Stick to the tool that your team mates use.
 
-## Contribution flows
+## Contribution flows (MS)
 
 All workshop patricipants must be members of https://github.com/Writers-Instagram/play-bucket repository.
 Share accounts names with https://docs.google.com/document/u/0/.
@@ -86,13 +88,13 @@ Share accounts names with https://docs.google.com/document/u/0/.
   - Clone -> Branch -> Pull Request
 - Through forks: Fork -> Pull Request
 
-## Crowd sourcing 
+## Crowd sourcing (MS)
 
 https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
 
 Edit link looks like this https://github.com/Writers-Instagram/play-bucket/edit/master/README.md
 
-## Markdown and others
+## Markdown and others (MS)
 
 Markdown is a way to style text on the web
 
@@ -104,14 +106,14 @@ Emoticons: https://gist.github.com/rxaviers/7360908
 
 Others: https://github.com/github/markup#markups AsciiDoc or reStructuredText.
 
-## Ways of documenting projects
+## Ways of documenting projects (LG)
 
 - Simple docu, readme only: https://github.com/matiassingers/awesome-readme
 - Readme with links to more docs: https://github.com/matiassingers/awesome-readme
 - Wiki: https://github.com/Netflix/Hystrix/wiki
 - Jekyll site: https://github.com/derberg/awesome-docs-with-static-site-generators
 
-## GitHub Pages
+## GitHub Pages (LG)
 
 Free web hosting: https://pages.github.com/
 
@@ -122,11 +124,12 @@ Alternative:
 * `http://documentup.com/profile-org-name/repo-name` like http://documentup.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP
 * https://github.com/PharkMillups/beautiful-docs
 
-## [Optional] Gist?
+---
 
-Create first Gist https://gist.github.com
-
-## [Optional] Automation, Travis, links validation
+## Contribution with pull requests
+## Create own repository with README with external links
+## GitHub Pages
+## Automation, Travis, links validation
 
 Continuous integration is a way of automating processes aroung your project.
 - https://travis-ci.org
@@ -139,7 +142,3 @@ Continuous integration is a way of automating processes aroung your project.
 ```
 [![Build Status](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP.svg?branch=master)](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP)
 ```
-
-## [Optional] Project management through Project and Issues
-
-Define a Project and start working with Issues to assure transparency of your project for the community. Define your own [issue template](https://github.com/YaaS/chewie/blob/master/ISSUE_TEMPLATE.md) to make issue reporting much easier and assure you're getting all important data immediately from the user
