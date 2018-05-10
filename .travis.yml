@@ -1,4 +1,7 @@
 language: ruby
 rvm: 2.2
-before_script: gem install awesome_bot
+before_script: 
+  - gem install awesome_bot
+  - echo "test"
+  - echo $TRAVIS_BRANCH
 script: awesome_bot -f README.md,theory.md,practice.md --allow-dupe --allow-redirect --base-url https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/blob/$TRAVIS_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name
