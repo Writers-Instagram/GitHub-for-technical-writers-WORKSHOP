@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP.svg?branch=master)](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP)
-
 ## Overview (LG)
 
 Purpose of this workshop is to:
