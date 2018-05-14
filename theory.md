@@ -1,18 +1,3 @@
-## Overview (LG)
-
-Purpose of this workshop is to:
-* Get started with GitHub and get convinced to use it on daily basis
-* Learn basics about Git and GitHub
-* Know what are the benefits of using Github
-* Know what to use GitHub for
-* Get more experience and find a geeky job https://github.com/trending?since=monthly
-
-So first, get your own GitHub account https://github.com/join?source=header-home
-
-## Sample Data (LG)
-
-All sample data in this project are technology agnostic and are based on dummy lorem ipsum content taken from https://jaspervdj.be/lorem-markdownum/
-
 ## Why GitHub?
 
 ### What are the benefits? (MS)
