@@ -17,3 +17,16 @@ jobs:
           name: run links tests
           command: |
             awesome_bot README.md --allow-dupe --allow-redirect --base-url https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/blob/master/ --white-list http://documentup.com/profile-org-name/repo-name
+
+workflows:
+   version: 2
+   nightly:
+     triggers:
+       - schedule:
+           cron: "0 0 * * *"
+           filters:
+             branches:
+               only:
+                 - master
+     jobs:
+       - build
