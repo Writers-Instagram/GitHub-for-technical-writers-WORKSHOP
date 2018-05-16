@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP.svg?branch=master)](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP)
+[![CircleCI](https://circleci.com/gh/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/tree/master.svg?style=svg)](https://circleci.com/gh/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/tree/master)
 
 # GitHub for Technical Writers
 

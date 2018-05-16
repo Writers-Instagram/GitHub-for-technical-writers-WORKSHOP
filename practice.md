@@ -23,10 +23,23 @@ Continuous integration is a way of automating processes aroung your project.
 - https://travis-ci.org
 - https://circleci.com/
 
+### TravisCI
+
 1. Enable Travis to gain access to your repository: https://travis-ci.org/profile/
 2. Create such [.travis.yml](.travis.yml) file in the root of your repository. To get more understanding around the tool used here for links validation, read its docs: https://github.com/dkhamsing/awesome_bot
 3. Check how is your CI plan doing: https://travis-ci.org/profile-org-name/repo-name
 4. Add a badge to the top of the README:
    ```
-   [![Build Status](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP.svg?branch=master)](https://travis-ci.org/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP)
+   [![Build Status](https://travis-ci.org/profile-org-name/repo-name.svg?branch=master)](https://travis-ci.org/profile-org-name/repo-name)
    ```
+
+### CircleCI
+
+1. Enable CircleCI to gain access to your repository: https://circleci.com/signup/
+1. Create such [config.yml](.circleci/config.yml) file in new **.circleci** directory.
+1. Check how is your CI plan doing: https://circleci.com/gh/profile-org-name/repo-name
+1. Add a badge to the top of the README:
+   ```
+   [![CircleCI](https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg)](https://circleci.com/gh/profile-org-name/repo-name/tree/master)
+   ```
+
