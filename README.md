@@ -20,10 +20,6 @@ Purpose of this workshop is to:
 
 Time to get your own GitHub account https://github.com/join?source=header-home
 
-## Sample Data (LG)
-
-All sample data in this project are technology agnostic and are based on dummy lorem ipsum content taken from https://jaspervdj.be/lorem-markdownum/
-
-## Issues
+## Issues (LG)
 
 In case of any issues or inquiries use [the Github issue tracker](../../issues) or join our [Slack channel](https://writersinstagram.slack.com/).

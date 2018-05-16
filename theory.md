@@ -16,6 +16,7 @@
 - Sharing thoughts:
   - https://gist.github.com/matthewmccullough/9381765
   - https://gist.github.com/olivierlacan/4062929
+  - https://gist.github.com/rxaviers/7360908
   
 ### Who uses it? (LG)
   - https://github.com/Microsoft
