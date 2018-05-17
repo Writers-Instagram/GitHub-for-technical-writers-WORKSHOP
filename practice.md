@@ -1,7 +1,7 @@
 ## Contribution with pull requests
 
 1. Go to [play-bucket](https://github.com/Writers-Instagram/play-bucket) repository
-1. Suggest new file creation or change in some existing file. Make a change and propose a pull request, so it can be accepted and merged.
+1. Suggest new file creation or change in some existing file through the Fork workflow. Make a change and propose a pull request, so it can be accepted and merged.
 
 Advanced: now let us simulate a merge conflict :wink:
 

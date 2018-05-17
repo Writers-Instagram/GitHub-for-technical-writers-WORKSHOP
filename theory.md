@@ -71,8 +71,6 @@ Basic workflow:
 4. Open a pull request
 5. Merge the pull request into the 'master'
 
-All workshop patricipants must be members of https://github.com/Writers-Instagram/play-bucket repository.
-Share your accounts' names with https://docs.google.com/document/u/0/.
 
 - Project member:
   - Edit -> Commit
@@ -84,10 +82,11 @@ Share your accounts' names with https://docs.google.com/document/u/0/.
 https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
 
 The edit view looks like this https://github.com/Writers-Instagram/play-bucket/edit/master/README.md
+Sample contribution that proofed it works https://github.com/kubernetes-incubator/service-catalog/pull/1878
 
 ## Markdown and others (MS)
 
-Markdown is a markup language used to style text on the web
+Markdown is a human-readable markup language used to style text on the web
 
 - Basics: https://daringfireball.net/projects/markdown/syntax, 
 - Editors: https://dillinger.io/
