@@ -1,11 +1,11 @@
 ## Why GitHub?
 
-### What are the benefits? (MS)
+### What are the benefits?
 - Learning
 - Sharing
 - Collaboration
 
-### What people use it for? (MS)
+### What people use it for?
 - Writing Books:
   - https://github.com/getify/You-Dont-Know-JS
 - Sharing Presentations/Workshops:
@@ -18,7 +18,7 @@
   - https://gist.github.com/olivierlacan/4062929
   - https://gist.github.com/rxaviers/7360908
   
-### Who uses it? (LG)
+### Who uses it?
   - https://github.com/Microsoft
   - https://github.com/google
   - https://github.com/sap
@@ -26,7 +26,7 @@
   
   The answer is: Everybody, like with Facebook. Except of those geeks that go to GitLab, like Facebook haters go to Google Plus.
 
-### What GitHub changed in the IT world (LG)
+### What GitHub changed in the IT world
   https://honza.ca/2011/03/7-ways-github-has-changed-the-open-source-world
   This post was published exactly when the GitHub populatiry started rising. It is still valid. 
   GitHub didn't change only developers lives, but also technical writers lives:
@@ -35,7 +35,7 @@
   - Readme driven development
   - Overall awareness of how important it is to have a good documentation quality
 
-## Glossary (MS)
+## Glossary
 
 - GitHub: Instagram for developers
 - Repository: An instagram profile with fancy stuff (you can have many profiles sic! :D)
@@ -49,7 +49,7 @@
 - Merge: Combine different branches in one
 - Merge Conflict: RUN FOR YOUR LIFE!
 
-## GitHub online editing vs. local editing (LG)
+## GitHub online editing vs. local editing
 
 This workshop is fully based on GitHub functionality, to show that Git clients usage is needed only in case of advance users.
 
@@ -62,7 +62,7 @@ No GitHub? Do you use Bitbucket?
 
 Stick to the tool that your team mates use.
 
-## Contribution flows (MS)
+## Contribution flows
 
 Basic workflow:
 1. Create a repository
@@ -77,14 +77,14 @@ Basic workflow:
   - **Clone repo** -> **Create branch** -> Edit -> Commit -> **Open pull request**
 - Project non-member: **Fork** repo -> Create branch -> Edit -> Commit -> Open pull request
 
-## Crowdsourcing (MS)
+## Crowdsourcing
 
 https://kubernetes.io/docs/tutorials/object-management-kubectl/imperative-object-management-configuration/
 
 The edit view looks like this https://github.com/Writers-Instagram/play-bucket/edit/master/README.md
 Sample contribution that proofed it works https://github.com/kubernetes-incubator/service-catalog/pull/1878
 
-## Markdown and others (MS)
+## Markdown and others
 
 Markdown is a human-readable markup language used to style text on the web
 
@@ -96,14 +96,14 @@ Emoticons: https://gist.github.com/rxaviers/7360908
 
 Other markup languages: https://github.com/github/markup#markups 
 
-## Ways of documenting projects (LG)
+## Ways of documenting projects
 
 - Simple docu, readme only: https://github.com/matiassingers/awesome-readme
 - Readme with links to more docs: https://github.com/matiassingers/awesome-readme
 - Wiki: https://github.com/Netflix/Hystrix/wiki
 - Jekyll site: https://github.com/derberg/awesome-docs-with-static-site-generators
 
-## GitHub Pages (LG)
+## GitHub Pages
 
 Free web hosting: https://pages.github.com/
 

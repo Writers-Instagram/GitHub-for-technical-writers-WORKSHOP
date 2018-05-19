@@ -10,7 +10,7 @@ This workshop teaches some basics and gives you an opportunity to try out GitHub
 - [theory](theory.md)
 - [practice](practice.md)
 
-## Purpose (LG)
+## Purpose
 
 Purpose of this workshop is to:
 * Get started with GitHub and get convinced to use it on daily basis
@@ -21,6 +21,6 @@ Purpose of this workshop is to:
 
 Time to get your own GitHub account https://github.com/join?source=header-home
 
-## Issues (LG)
+## Issues
 
 In case of any issues or inquiries use [the Github issue tracker](../../issues) or join our [Slack channel](https://writersinstagram.slack.com/).

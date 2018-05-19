@@ -17,7 +17,7 @@ Advanced: now let us simulate a merge conflict :wink:
 
 Take a look on example GitHub Page enabled for this script: https://writers-instagram.github.io/GitHub-for-technical-writers-WORKSHOP/
 
-## Automation, Travis, links validation
+## Automation for links validation
 
 Continuous integration is a way of automating processes aroung your project.
 - https://travis-ci.org
