@@ -26,7 +26,7 @@
   
   The answer is: Everybody, like with Facebook. Except for those geeks that go to GitLab, like Facebook haters go to Google Plus.
 
-### What GitHub changed in the IT world
+### What GitHub changed in the IT world?
   [https://honza.ca/2011/03/7-ways-github-has-changed-the-open-source-world](https://honza.ca/2011/03/7-ways-github-has-changed-the-open-source-world)
   
   This post was published exactly when GitHub populatiry started rising. It is still valid. 
@@ -57,7 +57,7 @@ This workshop is fully based on GitHub functionality to show that Git clients us
 Git is a distributed version control system. In human words: A system that records changes to a file or a set of files over time so that you can recall specific versions later.
 
 No GitHub? Do you use Bitbucket?
-- [Git CLI](https://git-scm.com/downloads). Easy to start with thanks to [this free training](https://try.github.io)
+- [Git CLI](https://git-scm.com/downloads) - easy to start with thanks to [this free training](https://try.github.io)
 - [GitHub Desktop](https://desktop.github.com/)
 - [SourceTree](https://www.sourcetreeapp.com/)
 
