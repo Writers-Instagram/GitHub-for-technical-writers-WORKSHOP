@@ -1,4 +1,4 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot -f README.md,theory.md,practice.md --allow-dupe --allow-redirect --base-url https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/blob/$TRAVIS_PULL_REQUEST_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name
+script: awesome_bot -f README.md,theory.md,practice.md --allow-dupe --allow-redirect --base-url https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/blob/$TRAVIS_PULL_REQUEST_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg
