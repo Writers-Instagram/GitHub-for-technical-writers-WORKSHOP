@@ -16,7 +16,7 @@ jobs:
       - run:
           name: run links tests
           command: |
-            awesome_bot -f README.md,theory.md,practice.md --allow-dupe --allow-redirect --base-url https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/blob/$CIRCLE_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name
+            awesome_bot -f README.md,theory.md,practice.md --allow-dupe --allow-redirect --base-url https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/blob/$CIRCLE_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg
 
 workflows:
    version: 2
