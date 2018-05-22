@@ -96,7 +96,7 @@ Markdown is a human-readable markup language used to style text on the web
 
 Emoticons: [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908)
 
-Other markup languages: [https://github.com/github/markup#markups](https://github.com/github/markup#markups)
+Other markup languages: [https://github.com/github/markup](https://github.com/github/markup)
 
 ## Ways of documenting projects
 
