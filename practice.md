@@ -45,3 +45,10 @@ Continuous integration is a way of automating processes around your project.
    [![CircleCI](https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg)](https://circleci.com/gh/profile-org-name/repo-name/tree/master)
    ```
 
+## (Optional) GitHub Pages and CI automation with DITA
+
+[https://github.com/georgebina/ghd-wiki](https://github.com/georgebina/ghd-wiki) repository presents how to do:
+- Markdown mixed with DITA
+- CI automation using TravisCI
+- GitHub pages
+- Crowdsourcing
