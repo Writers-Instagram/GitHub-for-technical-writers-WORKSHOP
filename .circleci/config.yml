@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  builder:
+  build:
     docker:
       # specify the version you desire here
       - image: circleci/ruby:2.4.1-node-browsers
@@ -32,4 +32,4 @@ workflows:
                only:
                  - master
      jobs:
-       - builder
+       - build
