@@ -24,3 +24,9 @@ Time to get your own GitHub account [here](https://github.com/join?source=header
 ## Issues
 
 In case of any issues or inquiries use [the Github issue tracker](https://github.com/Writers-Instagram/GitHub-for-technical-writers-WORKSHOP/issues) or join our [Slack channel](https://writersinstagram.slack.com/).
+
+## Useful links
+
+- https://github.com/stefanbuck/awesome-browser-extensions-for-github
+- https://github.com/tiimgreen/github-cheat-sheet
+- https://github.com/phillipadsmith/awesome-github
