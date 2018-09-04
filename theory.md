@@ -73,10 +73,11 @@ Basic workflow:
 5. Merge the pull request into the 'master'
 
 
-- Project member:
+Project member:
   - Edit -> Commit
   - **Clone repo** -> **Create branch** -> Edit -> Commit -> **Open pull request**
-- Project non-member: **Fork** repo -> Create branch -> Edit -> Commit -> Open pull request
+  
+Project non-member: **Fork** repo -> Create branch -> Edit -> Commit -> Open pull request
 
 ## Crowdsourcing
 
